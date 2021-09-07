@@ -1,1 +1,1 @@
-# ban-command for discord.py
+# ban command for discord.py
